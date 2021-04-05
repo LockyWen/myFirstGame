@@ -11,4 +11,5 @@
    <p>The score is to calculate how many times you attack the enemies. Once it reaches 100, then you win the game</p>
         
    <p> Once an enemy reaches the bottom and you fail to reach 100, then you lose</p>
+   <p> Once an enemy reaches the bottom and you fail to reach 100, then you lose</p>
 </body>
